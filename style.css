@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    padding: 10px 20px;
+    font-size: 1.4rem;
+    background: #000;
+    color: #fff;
+    margin-bottom: 40px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    max-width: 1200px;
+    width: 100%;
+}
+
+.example {
+    display: inline-flex;
+    border-radius: 5px;
+    padding: 10px 20px;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.4);
+}
