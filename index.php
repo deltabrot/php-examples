@@ -12,8 +12,8 @@
 
         <div class="container">
             <div class="content">
-                <div class="example">
-                    <?php include 'code.php' ?>
+                <div class="card">
+                    <pre><?php include 'code2.php' ?></pre>
                 </div>
             </div>
         </div>

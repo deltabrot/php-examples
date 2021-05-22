@@ -21,7 +21,7 @@ body {
     width: 100%;
 }
 
-.example {
+.card {
     display: inline-flex;
     border-radius: 5px;
     padding: 10px 20px;
